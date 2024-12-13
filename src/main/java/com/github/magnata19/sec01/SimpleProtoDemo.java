@@ -1,6 +1,6 @@
 package com.github.magnata19.sec01;
 
-import com.davidson.models.PersonOuterClass;
+import com.davidson.models.sec01.PersonOuterClass;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -1,6 +1,8 @@
 syntax = 'proto3';
 
-option java_package = "com.davidson.models";
+package sec01;
+
+option java_package = "com.davidson.models.sec01";
 
 message Person {
     string name = 1;
